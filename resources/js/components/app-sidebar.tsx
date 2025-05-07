@@ -18,6 +18,11 @@ const mainNavItems: NavItem[] = [
         href: '/posts',
         icon: FileIcon,
     },
+    {
+        title: 'Images',
+        href: '/images',
+        icon: FileIcon,
+    },
 ];
 
 const footerNavItems: NavItem[] = [
